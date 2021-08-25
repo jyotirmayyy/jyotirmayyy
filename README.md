@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jyotirmayyy
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on Web Application Projects
-- 📫 How to reach me : jp90010@gmail.com
+- 👀 Competitive Programmer & Web Developer
+- 🌱 Currently learning React.js
+- 💞️ Looking to collaborate on Web Application Projects
+- 📫 Reach me @Jyotirmayyy (Twitter)
 
 <!---
 jyotirmayyy/jyotirmayyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
